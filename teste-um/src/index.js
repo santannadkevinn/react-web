@@ -1,12 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client'; 
-import App from './App';
+import App from './conponents/App';
+import App2 from './conponents/app2';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App></App>
+    <App2 title="puta merda">
+      merda
+    </App2>
+    <App2 title="puta merda">
+      merda
+    </App2>     
   </React.StrictMode>
 );
 
