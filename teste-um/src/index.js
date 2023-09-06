@@ -3,16 +3,21 @@ import ReactDOM from 'react-dom/client';
 import App from './conponents/App';
 import App2 from './conponents/app2';
 import reportWebVitals from './reportWebVitals';
+import App3 from './conponents/App3';
+import App4 from './conponents/App4';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App2 title="puta merda">
-      merda
-    </App2>
-    <App2 title="puta merda">
-      merda
-    </App2>     
+   
+
+    
+   
+    <App4>
+    
+    </App4>
+
+  
   </React.StrictMode>
 );
 
