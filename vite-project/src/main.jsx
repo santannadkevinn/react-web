@@ -7,12 +7,9 @@ import ShoppingList from './02-list.jsx'
 import Event from './03-Resposta-a-Eventos.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <App>
-    dgfdfgfd
-  </App>,
 
-   <App>
-    fgdfgdfg
-   </App>
+  <MyApp>
+    fewrfger
+  </MyApp>
 )
 
